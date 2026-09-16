@@ -1,5 +1,4 @@
 Python Loops, Control Statements & Functions
-
 This repository contains Python programs created as part of a programming assignment. The assignment focuses on loops, control statements, functions, and basic problem-solving using real-world examples.
 
 📌 Tasks Included
@@ -25,6 +24,7 @@ User input
 The player gets a maximum of 3 attempts to guess the correct number.
 
 2. Multiplication Table Generator
+
 A program that asks the user for a number and generates its multiplication table from 1 to 10.
 
 Concepts used:
@@ -38,6 +38,7 @@ User input
 Arithmetic operations
 
 3. BMI Calculator
+
 A program that calculates Body Mass Index (BMI) using the user's weight and height.
 
 Concepts used:
@@ -75,6 +76,7 @@ Run each code cell.
 Enter the required input when prompted.
 
 🎯 Learning Objectives
+
 This assignment demonstrates how to:
 
 Use while and for loops.
