@@ -4,7 +4,6 @@ This repository contains Python programs created as part of a programming assign
 
 📌 Tasks Included
 1. Number Guessing Game
-
 A simple number guessing game where the computer generates a random number between 1 and 10.
 
 Concepts used:
@@ -26,7 +25,6 @@ User input
 The player gets a maximum of 3 attempts to guess the correct number.
 
 2. Multiplication Table Generator
-
 A program that asks the user for a number and generates its multiplication table from 1 to 10.
 
 Concepts used:
@@ -40,7 +38,6 @@ User input
 Arithmetic operations
 
 3. BMI Calculator
-
 A program that calculates Body Mass Index (BMI) using the user's weight and height.
 
 Concepts used:
@@ -58,7 +55,6 @@ Mathematical calculations
 Formatted output
 
 🛠️ Technologies Used
-
 Python
 
 Google Colab
@@ -70,7 +66,6 @@ Python-Loops-Assignment/
 └── assignment.ipynb
 
 ▶️ How to Run
-
 Download or clone this repository.
 
 Open the .ipynb file in Google Colab or Jupyter Notebook.
@@ -80,7 +75,6 @@ Run each code cell.
 Enter the required input when prompted.
 
 🎯 Learning Objectives
-
 This assignment demonstrates how to:
 
 Use while and for loops.
